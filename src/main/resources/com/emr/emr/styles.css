@@ -1,0 +1,33 @@
+/* styles.css */
+
+.root {
+    -fx-background-color: #e8f0fe; /* A shade of light sky blue */
+}
+
+.label {
+    -fx-text-fill: #202124; /* Dark Grayish-Black color */
+}
+
+.text-field, .password-field {
+    -fx-background-color: #99beff; /* A shade of light sky blue */
+    -fx-pref-height: 40px;
+    -fx-pref-width: 300px;
+}
+
+.button {
+    -fx-font-size: 18px;
+    -fx-padding: 10px 20px;
+    -fx-min-width: 150px;
+    -fx-background-color: linear-gradient(to top, #1a73e8, #4285f4); /* Use gradient for a more visually appealing look */
+    -fx-text-fill: #ffffff; 
+    -fx-border-radius: 5px;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.4) , 2,2,1,1 ); /* Add shadow for 3D effect */
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to top, #185abc, #2f7af4); /* Make the button darker on mouse over */
+}
+
+.button:pressed {
+    -fx-background-color: #165eab; /* Dark blue color when pressed */
+}
