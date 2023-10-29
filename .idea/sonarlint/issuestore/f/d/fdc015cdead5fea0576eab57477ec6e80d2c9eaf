@@ -1,0 +1,117 @@
+
+b
+java:S1192¢"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(‚şÿéüÿÿÿÿ
+t	java:S135Š"YReduce the total number of break and continue statements in this loop to use at most one.(ÅöÖûÿÿÿÿ
+t	java:S135Á"YReduce the total number of break and continue statements in this loop to use at most one.(ú²õ«üÿÿÿÿ
+f	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨í(
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê ß
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¼Š‘ùÿÿÿÿ
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÜúôÿÿÿÿÿ
+l	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ³°€øÿÿÿÿ
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«£‡•ùÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ï¿„
+l	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ ±ºıÿÿÿÿ
+g	java:S116ô"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’‰€ùÿÿÿÿ
+b	java:S116õ"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿà÷
+v
+java:S1149„"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡•î
+v
+java:S1149¹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡•î
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡•î
+v
+java:S1149È"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡•î
+@
+java:S1197F"*Move the array designators [] to the type.(¯ÚİÎ
+@
+java:S1197M"*Move the array designators [] to the type.(Şú¾—
+A
+java:S1197Ó"*Move the array designators [] to the type.(¿ë»¹
+A
+java:S1197Ù"*Move the array designators [] to the type.(Ø¶’Û
+F
+java:S1197ã"*Move the array designators [] to the type.(«ìùÄøÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(’¨ÿÉûÿÿÿÿ
+<
+java:S1659…" Declare "c2" on a separate line.(Şİ¸üÿÿÿÿ
+=
+java:S1905©"&Remove this unnecessary cast to "int".(ˆğ ß
+=
+java:S1905©"&Remove this unnecessary cast to "int".(ˆğ ß
+B
+java:S1905«"&Remove this unnecessary cast to "int".(»çšÆûÿÿÿÿ
+X
+java:S1659º"ADeclare "slen" and all following declarations on a separate line.(†Î¡Ã
+[
+java:S1659¼"?Declare "c2" and all following declarations on a separate line.(ÀßçÖùÿÿÿÿ
+F
+java:S1197»"*Move the array designators [] to the type.(øàü÷şÿÿÿÿ
+@
+java:S1197æ"*Move the array designators [] to the type.(¨Å¥i
+U
+java:S1659ç">Declare "n" and all following declarations on a separate line.(¹È’¡
+F
+java:S1197„"*Move the array designators [] to the type.(Ó¡«õüÿÿÿÿ
+F
+java:S1197„"*Move the array designators [] to the type.(Ó¡«õüÿÿÿÿ
+?
+java:S1905–"(Remove this unnecessary cast to "int[]".(‚·é
+?
+java:S1905—"(Remove this unnecessary cast to "int[]".(û¯²
+F
+java:S1197"*Move the array designators [] to the type.(ÆÇŠÑùÿÿÿÿ
+>
+java:S1659¢""Declare "slen" on a separate line.(‹ŒÎşÿÿÿÿ
+F
+java:S1197 "*Move the array designators [] to the type.(å’Üÿÿÿÿÿ
+A
+java:S1197¡"*Move the array designators [] to the type.(«÷×
+A
+java:S1197»"*Move the array designators [] to the type.(“•á€
+A
+java:S1197»"*Move the array designators [] to the type.(“•á€
+:
+java:S1659½"#Declare "doffp" on a separate line.(›Ï¡«
+>
+java:S1659¿""Declare "slen" on a separate line.(‹ŒÎşÿÿÿÿ
+A
+java:S1197½"*Move the array designators [] to the type.(›Ï¡«
+A
+java:S1197½"*Move the array designators [] to the type.(›Ï¡«
+A
+java:S1197¾"*Move the array designators [] to the type.(«÷×
+@
+java:S1197ß"*Move the array designators [] to the type.(“¨í(
+@
+java:S1197ß"*Move the array designators [] to the type.(“¨í(
+A
+java:S1197à"*Move the array designators [] to the type.(ë»Âµ
+U
+java:S1659á">Declare "i" and all following declarations on a separate line.(šÖıÿ
+F
+java:S1197ã"*Move the array designators [] to the type.(øàü÷şÿÿÿÿ
+Y
+java:S1659‹"BDeclare "saltb" and all following declarations on a separate line.(½Ë¦Œ
+=
+java:S1659"!Declare "off" on a separate line.(š¾ŒÄøÿÿÿÿ
+A
+java:S1197‹"*Move the array designators [] to the type.(½Ë¦Œ
+A
+java:S1197‹"*Move the array designators [] to the type.(½Ë¦Œ
+A
+java:S1197‹"*Move the array designators [] to the type.(½Ë¦Œ
+U
+java:S4719¢"9Replace charset name argument with StandardCharsets.UTF_8(‚şÿéüÿÿÿÿ
+D
+java:S1905«"(Remove this unnecessary cast to "int[]".(›ÑÛÇıÿÿÿÿ
+F
+java:S1197É"*Move the array designators [] to the type.(«¿±”ÿÿÿÿÿ
+F
+java:S1197÷"*Move the array designators [] to the type.(«£‡•ùÿÿÿÿ
+A
+java:S1197ø"*Move the array designators [] to the type.(‚Ï¿„
+U
+java:S4719û"9Replace charset name argument with StandardCharsets.UTF_8(†è‚™ùÿÿÿÿ
+P
+java:S4719ü"9Replace charset name argument with StandardCharsets.UTF_8(Óœé—
